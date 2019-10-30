@@ -121,7 +121,7 @@ public class VarastoTest {
 
     @Test
     public void ottaminenLisääTilaa() {
-        varasto.lisaaVarastoon(8);
+        varasto.lisaaVarastoon(7);
 
         varasto.otaVarastosta(2);
 
