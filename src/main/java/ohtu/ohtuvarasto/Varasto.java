@@ -29,16 +29,6 @@ public class Varasto {
         } else {
             return value;
         }
-
-
-
-
-
-
-
-
-
-
     }
 
     // --- ottavat aksessorit eli getterit: ---
