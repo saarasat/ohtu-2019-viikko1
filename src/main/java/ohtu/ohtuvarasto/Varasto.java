@@ -39,8 +39,6 @@ public class Varasto {
 
 
 
-
-
     }
 
     // --- ottavat aksessorit eli getterit: ---
